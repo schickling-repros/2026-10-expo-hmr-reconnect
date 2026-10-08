@@ -95,3 +95,8 @@ In SDK 57, the active Expo HMR wrapper is `expo/src/async-require/hmr.ts`, **not
 ## Diagnostics
 
 `expo-doctor` completed with `21/21 checks passed. No issues detected!` using CocoaPods 1.16.2 in the command environment. No package overrides or dependency-mismatch workarounds were used.
+
+## Related issue
+
+https://github.com/expo/expo/issues/51275
+
