@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "HMR Reconnect Repro",
+    "slug": "hmr-reconnect-repro",
+    "version": "1.0.0",
+    "ios": {
+      "bundleIdentifier": "org.example.hmreconnectrepro"
+    }
+  }
+}
